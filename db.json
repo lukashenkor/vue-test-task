@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin"
+    }
+  ],
+  "trips": [
+    {
+      "id": 1,
+      "date": "01.07.21 15:36",
+      "from": "Москва",
+      "to": "Екатеринбург",
+      "passengersCount": 2,
+      "reason": "Отдых"
+    },
+    {
+      "id": 2,
+      "date": "12.05.21 07:12",
+      "from": "Курск",
+      "to": "Самара",
+      "passengersCount": 4,
+      "reason": "Работа"
+    },
+    {
+      "id": 3,
+      "date": "05.12.20 12:45",
+      "from": "Москва",
+      "to": "Калуга",
+      "passengersCount": 5,
+      "reason": "Работа"
+    },
+    {
+      "id": 4,
+      "date": "28.02.21 11:58",
+      "from": "Самара",
+      "to": "Калуга",
+      "passengersCount": 1,
+      "reason": "Отдых"
+    },
+    {
+      "id": 5,
+      "date": "04.03.21 09:14",
+      "from": "Москва",
+      "to": "Курск",
+      "passengersCount": 3,
+      "reason": "Работа"
+    }
+  ]
+}
